@@ -1,4 +1,5 @@
 {
+  "$schema": "../../../../../../../node_modules/nx/schemas/project-schema.json",
   "projectType": "library",
   "sourceRoot": "libs/features/convs-mgr/stories/blocks/library/question-message-block/src",
   "prefix": "app",
